@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ASO-CODE/Frontend-Mentor-Stats-preview-card-component](https://github.com/ASO-CODE/Frontend-Mentor-Stats-preview-card-component)
-- Live Site URL: [https://aso-code-stats-preview-card.netlify.app/](https://aso-code-stats-preview-card.netlify.app/)
+- Solution URL: [https://github.com/ASO-CODE/Frontend-Mentor-Interactive-pricing-component](https://github.com/ASO-CODE/Frontend-Mentor-Interactive-pricing-component)
+- Live Site URL: [https://asocode-interactive-pricing-component.netlify.app/](https://asocode-interactive-pricing-component.netlify.app/)
 
 ## My process
 
